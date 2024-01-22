@@ -1,0 +1,16 @@
+PODS:
+  - GusKit (0.1.0)
+
+DEPENDENCIES:
+  - GusKit (from `../`)
+
+EXTERNAL SOURCES:
+  GusKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  GusKit: 1e33bfc8e79b40d2d2abe7a914fc927e9e7c9922
+
+PODFILE CHECKSUM: b6714e0b11ca480a9a50e8de5c8d4560f7bfe4ac
+
+COCOAPODS: 1.14.3

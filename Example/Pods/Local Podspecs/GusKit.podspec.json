@@ -1,0 +1,22 @@
+{
+  "name": "GusKit",
+  "version": "0.1.0",
+  "summary": "A short description of GusKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Agus Cahyono/GusKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Agus Cahyono": "agus.cahyono@bareksa.com"
+  },
+  "source": {
+    "git": "https://github.com/Agus Cahyono/GusKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "GusKit/Classes/**/*"
+}
