@@ -2,7 +2,7 @@ import Foundation
 
 
 public class ReplaceMe {
-    public static please() {
+    public static func please() {
         
     }
 }
